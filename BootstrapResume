@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- ===========================
+    THEME INFO
+    =========================== -->
+    <meta name="description" content="CVstrap is another Free minimal CV HTML theme by EvenFly built with Bootstrap 3.3.0. and released under CC-3.0 license.">
+    <meta name="keywords" content="curriculum vitae, cv, one page, onepage, bootstrap, responsive, resume, timeline, free cv">
+    <meta name="author" content="Mamun Srizon">
+
+    <!-- ===========================
+    SITE TITLE
+    =========================== -->
+    <title>Corey Taylor - Bootstrap Resume</title>
+
+    <!-- ===========================
+    FAVICONS
+    =========================== -->
+    <link rel="icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-iphone.png" />
+
+    <!-- ===========================
+    STYLESHEETS
+    =========================== -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <!-- ===========================
+    FONTS & ICONS
+    =========================== -->
+    <link href='//fonts.googleapis.com/css?family=Kristi|Alegreya+Sans:300' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!--[if IE]>
+        <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div class="container">
+        <!-- ===========================
+        HEADER
+        ============================ -->
+        <div id="header" class="row">
+            <div class="col-sm-2">
+                
+            </div>
+            
+
+            <div class="col-sm-10">
+                <div class="cv-title">
+                    <div class="row">
+                        <div class="col-sm-7">
+                            <h1>Corey Taylor</h1>
+                            <img src="">
+                        </div>
+                        <div class="col-sm-5 text-right dl-share">
+                            <!-- AddToAny BEGIN -->
+                            <a class="a2a_dd btn btn-default" href=""><span class="fa fa-share "></span> Share</a>
+                            <script type="text/javascript">
+                                var a2a_config = a2a_config || {};
+                                a2a_config.linkname = "Minimal CV by EvenFly";
+                                a2a_config.num_services = 6;
+              
+                            </script>
+                            <script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
+                            <!-- AddToAny END -->
+
+                            <a class="btn btn-success" href=""><span class="fa fa-download"></span> Download</a>
+                        </div>
+                    </div>
+                    <h2>Information Systems Student</h2>
+                </div><!-- Title end-->
+
+                <!-- ===========================
+                SOCIAL & CONTACT
+                ============================ -->
+                <div class="row">
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-home"></span>https://github.com/CTay301</a>
+                            </li>
+                            <li><a href="mailto:coreyjt301@gmail.com"><span class="social fa fa-envelope-o"></span>coreyjt301@gmail.com</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 1st col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+                            <li><a href=""><span class="social fa fa-facebook"></span>Facebook</a>
+                            </li>
+                            <li><a href=""><span class="social fa fa-twitter"></span>Twitter</a>
+                            </li>
+                        </ul>
+                    </div><!-- social 2nd col end-->
+
+                    <div class="col-sm-4">
+                        <ul class="list-unstyled">
+
+                        </ul>
+                    </div><!-- social 3rd col end-->
+                </div><!-- header social end-->
+            </div><!-- header right end-->
+        </div><!-- header end-->
+
+        <hr class="firsthr">
+
+        <!-- ===========================
+        BODY LEFT PART
+        ============================ -->
+        <div class="col-md-8 mainleft">
+            <div id="statement" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-user"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Objective </h3>
+                    <p>My name is Corey Taylor, Sophomore Computer Information Systems major from Aberdeen, MD. </p>
+
+                    <p>Looking for opportunities to build skills in both cybersecurity and technology consulting</p>
+
+                    <p class="signature">Corey Taylor</p>
+                </div>
+            </div>
+
+            <hr>
+
+            <div id="education" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-graduation-cap"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Education</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>BBA in Information Systems</h4>
+                            <p class="sub"><a href="">Howard University School of Business</a>
+                            </p>
+                            <p><ul>
+                                    <li>Management Information Systems</li>
+                                    <li>Introduction to Software & Design</li> 
+                                    <li>Business Problem Solving</li> 
+                                    <li>Introduction to Java Programming</li> 
+                                    <li>Web Authoring Tools</li></p>
+                        </div>
+
+                        <div class="year col-md-3">
+                            <p>2014-2018</p>
+                        </div>
+                    </div>
+                   
+
+            <!-- ===========================
+            JOB EXPERIENCES
+            ============================ -->
+            <div id="job" class="row mobmid">
+                <div class="col-sm-1">
+                    <span class="secicon fa fa-briefcase"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11">
+                    <h3>Job Experiences</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                            <h4>National Museum of the American Indian, IT Applications, Govt. Contractor</h4>
+                            <p class="sub"><a href="">National Museum of the American Indian</a>
+                            </p>
+                            <p><ul>
+                <li>Work with Project Management, Database Management, and Business Intelligence software</li>
+                
+                <li>Developed analytical and technical skills</li>
+                
+                <li>Conduct maintenance and updates on NMAI intranet website</li>
+                
+                </div>
+
+                        <div class="year col-md-3">
+                            <p>June 2016 - May 2017</p>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                   
+        
+        <!-- ===========================
+        SIDEBAR
+        =========================== -->
+        <div class="col-md-4 mainright">
+            <div class="row">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-magic"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10">
+                    <h3 class="mobmid">Technical skills </h3>
+
+                    <p>HTML</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 22%">
+                            <span class="sr-only">22% Complete (success)</span>
+                        </div>
+                    </div>
+
+
+                    <p>Intro to Java Programming</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">
+                            <span class="sr-only">60% Complete</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>Python</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100" style="width: 2%">
+                            <span class="sr-only">15% Complete (warning)</span>
+                        </div>
+                    </div><!--skill end-->
+
+                    <p>Excel</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
+                            <span class="sr-only">90% Complete (danger)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <hr>
+
+            <div class="row mobmid">
+                <div class="col-sm-1 col-md-2">
+                    <span class="secicon fa fa-trophy"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10 ">
+                    <h3>Awards</h3>
+
+                    <div class="award">
+                       
+                    </div>
+                    <!--1st award end-->
+
+                    <div class="award">
+                        <p class="sub"><a href="">Scholarships & Awards Received:</a></p>
+                        <p> 
+                            <ul>
+                        <li>External Vice President of The Society of Collegiate Black Men</li>
+                        <li>Howard University Legacy Scholarship Recipient</li>         
+                        </ul>                    
+</p>
+                    </div><!--1st award end-->
+                </div><!--awards end-->
+
+            </div>
+            
+            <hr>
+
+            <div class="row ">
+                <div class="col-sm-1 col-md-2 mobmid">
+                    <span class="secicon fa fa-quote-left"></span>
+                </div><!--icon end-->
+
+                <div class="col-sm-11 col-md-10 testimonials">
+                    
+                        
+                    </div><!--2nd testimonial end-->
+
+                    <div class="row">
+
+                    </div><!--3rd testimonial end-->
+                </div><!--testimonials end-->
+            </div><!--tech skills end-->
+        </div><!--right end-->
+    </div><!--container end-->
+
+    <!-- ===========================
+    FOOTER
+    =========================== -->
+    <footer class="text-center">
+        <p>&copy; <a href="http://creativecommons.org/licenses/by/3.0/">CC-3.0</a>, Just another CV template by <a href="https://evenfly.com">EvenFly </a> - Designed by <a target="_blank" href="http://www.facebook.com/towkirahmedbappy">Towkir Ahmed Bappy</a>.
+        </p>
+    </footer>
+
+    <!--necessary scripts and plugins-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="js/jquery.nicescroll.min.js"></script>
+    <script src="js/evenfly.js"></script>
+</body>
+
+</html>
